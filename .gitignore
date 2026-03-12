@@ -30,3 +30,9 @@ frontend/*
 
 # DS Store
 .DS_Store
+
+# Local/Generated
+fake-news-detector/endee-data/
+fake-news-detector/.venv/
+fake-news-detector/model.pkl
+fake-news-detector/vectorizer.pkl
